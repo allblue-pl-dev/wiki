@@ -6,4 +6,5 @@
  - web
  - npm
  - android
+ - dev
  - custom
